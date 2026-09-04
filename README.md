@@ -313,6 +313,11 @@ Sound effects
 Multiple-choice questions
 Cloud database integration
 Online multiplayer quiz mode
+
+<img width="1178" height="902" alt="Screenshot 2026-09-04 134959" src="https://github.com/user-attachments/assets/6679f3d8-a7df-4cb0-a6b7-7832edbcdc95" />
+
+
+
 👩‍💻 Developer
 
 Keya Acharya
